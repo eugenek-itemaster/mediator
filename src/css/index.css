@@ -1,0 +1,9 @@
+.card {
+    max-width: 300px;
+    height: 500px;
+    display: inline-table;
+    margin: 20px;
+}
+.chat {
+    height: 340px;
+}
